@@ -33,15 +33,7 @@ class Rehber(Kisi):
             d = load(f)
         last_update = d['degistirme_tarihi']
         return last_update
-    def re_identification(self) -> bool:
-        '''
-        Telefon numarasına göre kayıtlı bir kişi var mı kontrol eder
 
-        Returns:
-            bool: Telefon numarasına göre kayıtlı bir kişi varsa True, yoksa False
-        '''
-
-        ...
     @staticmethod
     def check_valid_number(tel_no) -> bool:
         # Türkiye'nin uluslararası telefon kodu
