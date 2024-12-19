@@ -1,0 +1,17 @@
+{
+    "rehber": [
+        {
+            "tel_no": "+905133123231",
+            "name": "Furkan",
+            "lastname": "y\u0131ld\u0131r\u0131m",
+            "mail": "df@gmail.com"
+        },
+        {
+            "name": "Kaan",
+            "lastname": "demir",
+            "tel_no": "+905313478559",
+            "mail": "mail.asd@gmail.com"
+        }
+    ],
+    "degistirme_tarihi": " "
+}
